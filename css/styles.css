@@ -2,7 +2,7 @@ html {
   background-color: lightgreen;
 }
 
-#Top-header {
+.header {
   Font-style: italic;
   text-align: center;
 }
