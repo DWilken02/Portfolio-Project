@@ -8,13 +8,18 @@ body {
 }
 
 #Picture-of-Me {
-  width: 60%;
+  width: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   border: 5px solid #555;
+  padding: 1%;
 }
 
 .Schools {
   Font-style: italic
+}
+
+#about-me {
+ background-color: lightcoral
 }
